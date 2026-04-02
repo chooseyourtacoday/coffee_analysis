@@ -25,5 +25,6 @@ US Bureau of Labor Statistics, Yahoo Finance
 2. Run coffee_analysis.ipynb top to bottom
 3. Open Tableau and connect to the output CSVs
 
+## Dashboard
 
 Link for my Tableau project: https://public.tableau.com/app/profile/alejandro.molina3014/viz/coffee_rising_prices/Story1
